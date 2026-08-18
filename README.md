@@ -27,8 +27,8 @@
 
 ### 📫 Contacto
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/lucrecia-istebot-800401189/]
-- ✉️ Email: [lucreciaistebot@gmail.com]
+- 💼 LinkedIn: https://www.linkedin.com/in/lucrecia-istebot-800401189/
+- ✉️ Email: lucreciaistebot@gmail.com
 
 ---
 

@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Lucrecia 👋</h1>
 
 <p align="center">
-  Socióloga 🇺🇾 | Análisis de datos & investigación social 
+  Socióloga | Análisis de datos & investigación social 
 </p>
 
 ---
